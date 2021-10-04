@@ -1,0 +1,4 @@
+include README.md
+include gen_selenium/driver/chromedriver-darwin
+include gen_selenium/driver/chromedriver-linux
+include gen_selenium/driver/chromedriver--win.exe
