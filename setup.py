@@ -4,13 +4,13 @@ with open('requirements.txt') as fp:
     install_requires = fp.read()
 
 setup(
-    name='dpg_selenium',
+    name='wrapped_selenium',
     version='0.0.1',
     keywords='wrapper selenium',
     description='a library for selenium',
     license='MIT License',
     author='Benedict Zhou',
-    author_email='bene.zhou@genetsis.com',
+    author_email='machespresso@gmail.com',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[install_requires],

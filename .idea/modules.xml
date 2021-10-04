@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deepgo-selenium.iml" filepath="$PROJECT_DIR$/.idea/deepgo-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wrapped-selenium.iml" filepath="$PROJECT_DIR$/.idea/wrapped-selenium.iml" />
     </modules>
   </component>
 </project>
