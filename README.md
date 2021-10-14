@@ -7,6 +7,7 @@ Download the google chrome with version 94
 ```bash
 1. git clone repository
 git clone https://github.com/Tiresiasel/wrapped-selenium.git
+cd wrapped-selenium
 pip install -e .
 ```
 
