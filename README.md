@@ -23,6 +23,8 @@ wrapped_selenium.driver.get(url)
 html = wrapped_selenium.driver.page_source
 ```
 
+
 ## Known Issue
 This package doesn't support M1 chip.
+When used in Linux, you need to chmod + x for the driver
 
